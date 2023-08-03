@@ -1,1 +1,1 @@
-Check out my Portfolio: https://tushan.herokuapp.com/
+Check out my Portfolio: https://subhanjanghosh.github.io/portfolio/
